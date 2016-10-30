@@ -8,7 +8,7 @@
 
   #container {
     padding-left: 200px;
-    padding-right: 190px;
+    padding-right: 200px;
   }
 
   #container .column {
@@ -30,7 +30,7 @@
 
   #right {
     width: 200px;
-    padding: 0 10px;
+    padding: 0 0px;
     margin-right: -100%;
   }
 
@@ -96,13 +96,13 @@
   /* Change the background color */
   /* of the left column below    */
   #left {
-    background: #DAE9BC;
+    background: #F7FDEB;
   }
 
   /* Change the background color  */
   /* of the right column below    */
   #right {
-    background: #F7FDEB;
+    background: #DAE9BC;
   }
 
   /* Change the background color  */
